@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+
+body{
+    background-color: azure;
+    margin: 20px;
+    padding: 20px;
+    border: black solid;
+
+}
+
